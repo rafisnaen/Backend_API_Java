@@ -17,7 +17,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>api-backend</name>
   <description>Backend API Project using Spring Boot, JDBC, and MySQL</description>
-  <url>http://www.example.com</url>
+  <url>https://github.com/rafisnaen/Backend_API_Java</url>
 
   <properties>
     <java.version>17</java.version>
