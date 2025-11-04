@@ -3,7 +3,7 @@ This application is a **Java Spring Boot-based** REST API.
 The endpoint `/api/data` returns JSON data retrieved from **MySQL database** using JdbcTemplate.
 Response returned in JSON format according to the reference file `viewData.json`.
 Uses a separate architecture between **Model, Repository, and Controller (MVC)**.
-# Application Spesification
+# Application Specification
 - **Language :** Java
 - **Framework :** Spring Boot
 - **Protocol :** HTTP
